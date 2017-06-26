@@ -13,6 +13,7 @@
       <root url="file://$PROJECT_DIR$/../cmd" />
       <root url="file://$PROJECT_DIR$/../models" />
       <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../go-server-server-generated-2" />
       <root url="file://$PROJECT_DIR$/../golang.org" />
       <root url="file://$PROJECT_DIR$/../gopkg.in" />
     </CLASSES>
@@ -29,6 +30,7 @@
       <root url="file://$PROJECT_DIR$/../cmd" />
       <root url="file://$PROJECT_DIR$/../models" />
       <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../go-server-server-generated-2" />
       <root url="file://$PROJECT_DIR$/../golang.org" />
       <root url="file://$PROJECT_DIR$/../gopkg.in" />
     </SOURCES>

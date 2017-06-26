@@ -8,7 +8,7 @@ import (
 	//
 	//    sw "github.com/myname/myrepo/go"
 	//
-	sw "github.com/ouedernil/goserver/go"
+	sw "github.com/ouedernil/go-server/go"
 	"log"
 	"net/http"
 )
