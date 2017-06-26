@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go-server-server-generated-2&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../nanocat" />
+      <root url="file://$PROJECT_DIR$/../grideye-site" />
+      <root url="file://$PROJECT_DIR$/../wamp" />
+      <root url="file://$PROJECT_DIR$/../my-static-site" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../network" />
+      <root url="file://$PROJECT_DIR$/../rpc" />
+      <root url="file://$PROJECT_DIR$/../restapi" />
+      <root url="file://$PROJECT_DIR$/../go-swagger-master" />
+      <root url="file://$PROJECT_DIR$/../cmd" />
+      <root url="file://$PROJECT_DIR$/../models" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../nanocat" />
+      <root url="file://$PROJECT_DIR$/../grideye-site" />
+      <root url="file://$PROJECT_DIR$/../wamp" />
+      <root url="file://$PROJECT_DIR$/../my-static-site" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../network" />
+      <root url="file://$PROJECT_DIR$/../rpc" />
+      <root url="file://$PROJECT_DIR$/../restapi" />
+      <root url="file://$PROJECT_DIR$/../go-swagger-master" />
+      <root url="file://$PROJECT_DIR$/../cmd" />
+      <root url="file://$PROJECT_DIR$/../models" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
